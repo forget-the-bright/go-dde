@@ -9,7 +9,7 @@ go
 
 #### 安装教程
 ```
-go get github.com/15128022404/go-dde
+go get github.com/forget-the-bright/go-dde
 ```
 
 #### 使用说明
