@@ -2,10 +2,11 @@ package demo
 
 import (
 	"fmt"
-	"go-dde/dde"
-	"go-dde/ddeml"
-	. "go-dde/types"
 	"time"
+
+	"github.com/forget-the-bright/go-dde/dde"
+	"github.com/forget-the-bright/go-dde/ddeml"
+	. "github.com/forget-the-bright/go-dde/types"
 )
 
 func isHSZItem(hsz2 HSZ) HSZ {

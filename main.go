@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"go-dde/dde"
-	. "go-dde/types"
 	"time"
+
+	"github.com/forget-the-bright/go-dde/dde"
+	. "github.com/forget-the-bright/go-dde/types"
 )
 
 func runClient() {

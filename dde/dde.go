@@ -8,10 +8,11 @@ import "C"
 
 import (
 	"fmt"
-	ddeml "go-dde/ddeml"
-	. "go-dde/types"
 	"time"
 	"unsafe"
+
+	ddeml "github.com/forget-the-bright/go-dde/ddeml"
+	. "github.com/forget-the-bright/go-dde/types"
 )
 
 const (

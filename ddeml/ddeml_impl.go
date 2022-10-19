@@ -1,9 +1,10 @@
 package ddeml
 
 import (
-	. "go-dde/types"
 	"syscall"
 	"unsafe"
+
+	. "github.com/forget-the-bright/go-dde/types"
 )
 
 func init() {

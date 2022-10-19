@@ -1,7 +1,7 @@
 package ddeml
 
 import (
-	. "go-dde/types"
+	. "github.com/forget-the-bright/go-dde/types"
 )
 
 var (
